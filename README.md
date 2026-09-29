@@ -32,6 +32,11 @@ All stem project or all code and images  LED Blinking , Automated Light Lamp (LD
 
 4 ) IR SENSOR PROJECT 
 ##### IR Sensor ( Object Detestation , fire detection ,  sylive )
+
+working code :-
+
+<img width="595" height="612" alt="image" src="https://github.com/user-attachments/assets/bfc19b43-284b-4a25-85bb-8b9c15b78fd3" />
+
 <img width="1600" height="1600" alt="image" src="https://github.com/user-attachments/assets/5dac6608-4754-448d-a1fb-67eb959d8848" />
 <img width="1600" height="1600" alt="image" src="https://github.com/user-attachments/assets/66581a79-15d9-40ff-9cef-d49641f5f1e4" />
 
@@ -69,6 +74,13 @@ Blind Stick
 Calculate the distance (koi bhi pass aayega to buzzer baqjega )  50 distancce)
 
 <img width="1416" height="723" alt="image" src="https://github.com/user-attachments/assets/560b3969-a411-4d5a-b024-31f145f50250" />
+
+
+#Robotic 1 programm
+
+-----------   Robotic sensor program------------------
+<img width="621" height="696" alt="image" src="https://github.com/user-attachments/assets/4f7e4f06-8e62-40bd-bb54-20bc68bcc083" />
+
 
 
 
