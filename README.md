@@ -81,6 +81,12 @@ Calculate the distance (koi bhi pass aayega to buzzer baqjega )  50 distancce)
 -----------   Robotic sensor program------------------
 <img width="621" height="696" alt="image" src="https://github.com/user-attachments/assets/4f7e4f06-8e62-40bd-bb54-20bc68bcc083" />
 
+#### Obstacle Avoider Robot
+
+
+
+
+
 
 
 
