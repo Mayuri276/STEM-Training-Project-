@@ -48,6 +48,23 @@ Q6 Traffic Light
 <img width="900" height="1600" alt="image" src="https://github.com/user-attachments/assets/d01d5b80-17f5-4cad-847e-bdbe5515913e" />
 <img width="900" height="1600" alt="image" src="https://github.com/user-attachments/assets/64b22a39-13ee-458a-aad6-773a505cff9e" />
 
+Q7 Temperature sensor
+################################### ex:- weather checking ,  alarm sensor , gazer , washing sensor  
+
+Weather Checking code 
+<img width="1600" height="1600" alt="image" src="https://github.com/user-attachments/assets/88bf32a1-1d19-47d4-8c7d-dabd049e6b22" />
+
+<img width="765" height="636" alt="image" src="https://github.com/user-attachments/assets/9e2299c5-22b3-412c-8f53-e19ae1faec8a" />
+
+-----------------CORRECCORET CODE -----------------------
+<img width="1497" height="661" alt="image" src="https://github.com/user-attachments/assets/538b53a6-361b-4608-8783-adacbc055187" />
+
+-------Ultrasonic Sensor ----------------------------
+###### ULTRASONIC SENSOR--------------------------------
+
+
+
+ 
 
 
 
