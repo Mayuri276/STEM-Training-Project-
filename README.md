@@ -63,6 +63,15 @@ Weather Checking code
 -------Ultrasonic Sensor ----------------------------
 ###### ULTRASONIC SENSOR--------------------------------
 
+distance calculator
+Blind spect (real time use)
+Blind Stick
+Calculate the distance (koi bhi pass aayega to buzzer baqjega )  50 distancce)
+
+<img width="1416" height="723" alt="image" src="https://github.com/user-attachments/assets/560b3969-a411-4d5a-b024-31f145f50250" />
+
+
+
 
 
  
