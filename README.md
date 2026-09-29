@@ -19,6 +19,7 @@ All stem project or all code and images  LED Blinking , Automated Light Lamp (LD
 2)	Program Buzzer
    <img width="504" height="489" alt="image" src="https://github.com/user-attachments/assets/23a3ccb4-11a3-4d1c-8308-3572f96607dd" />
 3)	 LDR (light on buzzer off Automated Light Lamp)
+   
 <img width="653" height="683" alt="image" src="https://github.com/user-attachments/assets/f2ff01ba-35b1-4f5c-a9b7-33ba1268c074" />
 
 
